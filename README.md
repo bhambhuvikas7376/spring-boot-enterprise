@@ -15,7 +15,7 @@ This repository demonstrates enterprise-grade Spring Boot development practices:
 - Cloud-native development and deployment strategies
 
 ## 🔥 Recent Updates
-- **2025-06-17** - [Advanced Spring Security Configuration](src/main/java/2025-06-17) - Enterprise-grade Spring Security with JWT and role-based access *(Advanced)*
+- **2025-06-20** - [Advanced Spring Security Configuration](src/main/java/2025-06-20) - Enterprise-grade Spring Security with JWT and role-based access *(Advanced)*
 - **Daily Updates**: Consistent implementation practice
 - **Code Quality**: Production-ready implementations
 - **Documentation**: Comprehensive explanations and examples
